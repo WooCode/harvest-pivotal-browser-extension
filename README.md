@@ -27,7 +27,7 @@ Chrome Webstore coming soon
 
 This project is a fork from a previous [project](https://github.com/codeandcraftinc/harvest-tracker-browser-extension) that have been discontinued. 
 
-You can find the original extension in the [Chrome Webstore](https://chrome.google.com/webstore).
+You can find the original extension in the [Chrome Webstore](https://chrome.google.com/webstore/detail/harvest-pivotaltracker-br/bdhdkgcddbcofnhhngknnfbnlaiffbba).
 
 
 
