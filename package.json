@@ -1,7 +1,7 @@
 {
-  "name": "harvest-tracker-browser-extension",
-  "version": "0.2.0",
-  "description": "The missing link between Harvest and PivotalTracker.",
+  "name": "harvest-pivotal-browser-extension",
+  "version": "0.1.0",
+  "description": "A Chrome browser extension  the gap between Pivotal Tracker han Harvest.",
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
@@ -30,16 +30,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codeandcraftnyc/harvest-tracker-browser-extension.git"
+    "url": "git+https://github.com/leifee/harvest-pivotal-browser-extension.git"
   },
   "keywords": [
     "harvest",
     "pivotaltracker"
   ],
-  "author": "Michael Giuliana <mike@codeandcraft.nyc>",
+  "author": "Petter Ahlqvist <petter@woocode.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codeandcraftnyc/harvest-tracker-browser-extension/issues"
+    "url": "https://github.com/leifee/harvest-pivotal-browser-extension/issues"
   },
-  "homepage": "https://github.com/codeandcraftnyc/harvest-tracker-browser-extension#readme"
+  "homepage": "https://github.com/leifee/harvest-pivotal-browser-extension#readme"
 }

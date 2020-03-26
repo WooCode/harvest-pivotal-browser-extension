@@ -1,20 +1,33 @@
-# Harvest / PivotalTracker Browser Extension
+#  PivotalTracker -> Harvest Chrome Extension
 
-The missing link between Harvest and PivotalTracker -- track your time
-directly from the PivotalTracker interface.
+A Chrome browser extension bridging the gap between Pivotal Tracker and Harvest.
 
-We use Harvest. We use PivotalTracker. We thought it would be cool to link up
-our Harvest timesheets directly to our PivotalTracker stories to simplify
-tracking and review.
+> Google Chrome is the only supported browser.
 
-> Google Chrome is currently the only supported browser.
+# Installation
+
+## Manually
+
+- Clone the repository and `cd` into it
+- Run `npm install` to get the dependencies
+- Install gulp globaly `npm install --global gulp`
+- Run `gulp`
+- If successful you should now see `/dist` folder in the repository root
+- Go to Chrome -> click the three dots in the upper right corner
+  - Choose `More tools -> Extensions`
+  - Click the button `Load unpacked` and select the `/dist`
+- Done! Now navigate to Pivotal Tracker
+
+## Automatically
+
+Chrome Webstore coming soon
 
 
+## Original project
 
-## Installation
+This project is a fork from a previous [project](https://github.com/codeandcraftinc/harvest-tracker-browser-extension) that have been discontinued. 
 
-Visit the [Chrome Webstore](https://chrome.google.com/webstore) to install the
-latest version to your browser.
+You can find the original extension in the [Chrome Webstore](https://chrome.google.com/webstore).
 
 
 
