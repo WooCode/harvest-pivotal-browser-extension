@@ -15,7 +15,7 @@ A Chrome browser extension bridging the gap between Pivotal Tracker and Harvest.
 - If successful you should now see `/dist` folder in the repository root
 - Go to Chrome -> click the three dots in the upper right corner
   - Choose `More tools -> Extensions`
-  - Enable developer (Upper right)
+  - Enable developer mode (Upper right)
   - Click the button `Load unpacked` and select the `/dist`
 - Done! Now navigate to Pivotal Tracker
 
